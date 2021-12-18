@@ -1,3 +1,5 @@
-check for git push
+check for git push //work fine without proxy by creaating new repo
 //
-change the text
+change the text //works only after removing credential from proxy in config
+
+//didn't worked for lan //
